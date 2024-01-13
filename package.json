@@ -1,0 +1,11 @@
+{
+  "name": "sumuray_back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HoodFast/Samurai_back.git",
+  "author": "HoodFast <rabota-trassa@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
